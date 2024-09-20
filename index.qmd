@@ -1,0 +1,74 @@
+---
+pagetitle: "ROBIN network"
+page-layout: custom
+section-divs: false
+toc: false
+css: index.css
+editor: source
+description: | 
+  A collaborative interdisciplinary effort that will apply new biological knowledge to optimize radiation therapy in combination with systemic drugs, immunotherapy, and other agents.
+hide-description: true
+#image: quarto-dark-bg.jpeg
+#resources: 
+#  - images/hero_animation.mp4
+---
+
+::: {.hero-banner}
+
+
+::: {.content-block}
+
+::: {.hero-text}
+# ROBIN
+
+### Radiation Oncology-Biology Integration Network
+
+
+The long-term goal of ROBIN is to encourage the creation of new ideas for radiation and combination therapy trials.
+
+* Test translational hypotheses that advance the understanding of mechanistic interactions and biologic consequences of RT through the course of radiation.
+
+* Collect longitudinally and spatially annotated research biospecimens prior to, during, and after RT to elucidate:
+    * toxicity and resistance signals that are more likely to develop very early during treatment and could be preventable
+    * new anti-cancer drug targets
+    * if the current therapeutic strategy remains optimal for the patient
+
+::: {.hero-buttons}
+[Get Started](/docs/get-started/index.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
+[Guide](/docs/guide/){#btn-guide .btn-action .btn .btn-info .btn-lg role="button"}
+::: 
+
+:::
+:::
+:::
+
+
+::: {.hello-quarto .alt-background}
+::: {.content-block}
+
+::: {.features}
+
+::: {.feature}
+# 4
+### Robin Centers
+:::
+
+::: {.feature}
+# 8
+### Clinical trials
+:::
+
+::: {.feature}
+# 23
+### Assays
+:::
+
+::: {.feature}
+# 434
+### Biospecimens
+:::
+
+:::
+
+:::
+:::
